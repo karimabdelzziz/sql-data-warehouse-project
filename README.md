@@ -98,7 +98,7 @@ The main objectives are:
 
 The data pipeline follows this general flow:
 
-```text
+
 ERP CSV Files ──────┐
                     │
                     ▼
