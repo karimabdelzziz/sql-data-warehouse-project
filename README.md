@@ -1,10 +1,16 @@
-````markdown
+
 # Data Warehouse and Analytics Project
 
-A modern data warehouse and analytics project built with SQL Server. The project demonstrates the complete data engineering workflow, from ingesting raw ERP and CRM data to building a dimensional data model and generating analytical insights.
+Welcome to my **Data Warehouse and Analytics Project**! 🚀
 
----
+This project is a practical implementation of a modern data warehouse using **SQL Server**, designed to transform raw data from ERP and CRM systems into reliable and analysis-ready information.
 
+Throughout the project, I implement a complete data engineering pipeline covering **data ingestion, ETL, data cleansing, data integration, dimensional modeling, and SQL-based analytics**.
+
+The project demonstrates my practical understanding of **Data Warehousing, SQL, ETL, Medallion Architecture, Star Schema, Data Modeling, and Data Analytics**.
+
+
+````markdown
 ## 🏗️ Data Architecture
 
 The project follows a **Medallion Architecture** consisting of three main layers:
